@@ -1,4 +1,4 @@
-# problem statement
+# Problem Statement
 Predicting the vacation rate for popular tourist destinations across the globe.
 
 The vacation rate is an essential metric for organizations involved in tourism as it helps them determine which destinations to promote during specific times of the year. It is believed that the vacation rate is dependent on various factors, such as temperature, humidity, and surface pressure.
